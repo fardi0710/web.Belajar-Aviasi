@@ -1,50 +1,46 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+title: Belajar Aviasi
+image: /img/Aviasi.png
+heading: Industri Aviasi
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi
+  title: Mari Balajar Aviasi
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Web ini akan mengajak kita untuk mengenal lebih banyak tentang dunia Aviasi, bagi teman-teman 
+    yang awam dan ingin mengetahui dunia Aviasi web ini akan sedikit membantu teman teman mengexplore
+    dunia Aviasi.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Secara umum sektor Industri Aviasi terbagi menjadi beberapa bagian yaitu Regulator, Operator Airline,Operator Kebandar Udaraan, Operator Lalu Lintas Udara dan lainnya seperti penyedia layanan bahan bakar ataupun penyedia layanan service.
+subdescription: >-
+  Secara umum sektor Industri Aviasi terbagi menjadi beberapa bagian yaitu Regulator, Operator Airline,Operator Kebandar Udaraan, Operator Lalu Lintas Udara dan lainnya seperti penyedia layanan bahan bakar ataupun penyedia layanan service.
+
+
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/Logo-kemenhub.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        Dalam Konteks Regulator yang berperan di Indonesia adalah Dirjen Perhubungan 
+        dibawah naungan Kementrian Perhubungan,perannya sangat penting salah satunya
+        untuk memberikan sosialisasi terkait aturan yang berlaku di Domestik maupun
+        Internasional yang harus dipatuhi setiap pelaku di industri Aviasi.
+    - image: /img/GIA.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        Menjadi Operator terbaik Indonesia bukanlah hal mudah, PT. Garuda Indonesia membuktikan
+        dengan mendapatkan beberapa penghargaan internasional dengan menjadi bagian dari Anggota SKY Team
+        kemudian mendapatkan hasil memuaskan di IATA Operational Safety Audit PT Garuda Indoneisa
+        semakin memantabkan nama nya di dunia International.
+    - image: /img/Injourney.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        Sebagai pengelola ke bandar udaraan maka Injourney sebagai Holding BUMN
+        untuk memegang peran memberikan kontribusi yang baik untuk Aviasi Industri.
+        Dengan menyiapkan Airport kelas Internasional membuat Injourney jadi instansi yang vital di
+        rantai kehidupan dunia Aviasi. 
+    - image: /img/Airnav.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Perusahaan yang di dominasi dengan alat Navigasi yang baik dan dikendalikan
+        oleh personil yang sangat skillfull membuat perusahaan ini sangat menjujung tinggi
+        profesionalisme.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
