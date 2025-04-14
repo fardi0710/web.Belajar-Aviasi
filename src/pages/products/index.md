@@ -1,43 +1,36 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Our Coffee
-image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+title: Aviation Stake Holder
+image: /img/avsh.jpg
+heading: Mengenal Aviasi dengan Belajar
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Dunia Aviasi sangat identik dengan banyaknya aturan yang ada,untuk memenuhi keselamatan dan keamanan para
+  pengguna aviation industry dan tentunya penyelenggara.
+  Untuk itu mari kita bedah satu persatu mengenai peran masing-masing penyelanggara dimulai
+  dari Regulator,Operator,Pengguna dan peran Pemerintah.
+  test
+
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/Logo-kemenhub.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        Kementrian Perhubungan Udara
+        Membuat aturan kepada seluruh Operator dengan mengikuti aturan internasional dan tambahan aturan domestik sesuai kebutuhan.
+        Selain membuat aturan, kementrian juga mempunyai tugas audit dan memberikan persetujuan kepada operator yang memang sudah layak untuk menyelenggarakan sebuah program yang sudah direncenakan.
+
+    - image: /img/Airnav.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        AirNav Indonesia merupakan tonggak sejarah dalam dunia penerbangan nasional bangsa Indonesia, karena AirNav Indonesia merupakan satu-satunya penyelenggara navigasi penerbangan di Indonesia
+        Perusahaan penyedia jasa Lalu Lintas Udara yang mempunyai peran penting untuk menjaga keselamatan para pengguna jasa.
+    - image: /img/GIA.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        PT. Garuda Indonesia mengemban misi khusus sebagai perusahaan penerbangan pembawa bendera bangsa Indonesia, yang mempromosikan Indonesia kepada dunia.
+
+    - image: /img/Injourney.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        njourney secara aktif bekerjasama dengan berbagai pemangku kepentingan, termasuk pemerintah, media, dan organisasi masyarakat, untuk memastikan bahwa informasi yang disampaikan selalu relevan, akurat, dan berdampak positif khususnya bagi pengembangan sektor pariwisata dan pendukung nasional.
+
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -45,37 +38,30 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: The Sky is Vast but no Room for Error
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Slogan ini sangat lekat dengan orang-orang yang menggeluti dunia dirgantara. Jika diterjemahkan secara bebas, slogan tersebut bisa berarti langit sangat luas, tapi tidak ada ruang untuk kesalahan. Kalimat diatas menjadi salah satu slogan Politeknik Penerbangan Indonesia (PPI).
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/tower.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/Engine.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/Airport.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Fardi Hamdan
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      Jagalah Dunia Aviasi Indonesia agar marwah Negara Indonesia Tetap dihormati Dunia
+  - author: Sabri Areta
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      Jangan Lupa Ikhtiar agar semua cita-cita tercapai
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Belajar Aviasi Gampang kok!!
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Kita buat mudah agar teman2 cepat beradabtasi.
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
