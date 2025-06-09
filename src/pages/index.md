@@ -17,7 +17,7 @@ description: >-
   Cakupan aviation knowledge sangat luas termasuk pengertian bandar udara, memahami bagian-bagian bandar udara, fasilitas bandar udara, etika dan lain sebagainya.
   Bahkan persoalan keamanan dan keselamatan penerbangan juga sebenarnya masih tergolong aviation knowledge, hanya saja ini adalah materi yang lebih mendalam dan bisa berdiri sendiri sebagai materi kuliah secara terpisah.
 subdescription: >-
-  Secara umum sektor Industri Aviasi terbagi menjadi beberapa bagian yaitu Regulator, Operator Airline,Operator Kebandar Udaraan, Operator Lalu Lintas Udara dan lainnya seperti penyedia layanan bahan bakar ataupun penyedia layanan service.
+  Secara umum sektor Industri Aviasi terbagi menjadi beberapa bagian yaitu Regulator, Operator Airline,Operator Kebandar Udaraan, Operator Lalu Lintas Udara dan lainnya seperti penyedia layanan bahan bakar ataupun penyedia layanan servis.
 
 
 intro:
