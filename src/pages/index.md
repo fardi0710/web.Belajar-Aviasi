@@ -2,16 +2,20 @@
 templateKey: index-page
 title: Belajar Aviasi
 image: /img/Aviasi.png
-heading: Industri Aviasi
-subheading: Support sustainable farming while enjoying a cup
+heading: Belajar Aviasi dengan mudah dan cepat
+subheading: test
 mainpitch:
-  title: Mari Balajar Aviasi
+  title: Balajar Aviasi yuk..
   description: >
     Web ini akan mengajak kita untuk mengenal lebih banyak tentang dunia Aviasi, bagi teman-teman 
     yang awam dan ingin mengetahui dunia Aviasi web ini akan sedikit membantu teman teman mengexplore
     dunia Aviasi.
 description: >-
-  Secara umum sektor Industri Aviasi terbagi menjadi beberapa bagian yaitu Regulator, Operator Airline,Operator Kebandar Udaraan, Operator Lalu Lintas Udara dan lainnya seperti penyedia layanan bahan bakar ataupun penyedia layanan service.
+  Belajar Aviasi secara umum terbagi menjadi beberapa bagian yaitu Regulator, Operator Airline,Operator Kebandar Udaraan, Operator Lalu Lintas Udara dan lainnya seperti penyedia layanan bahan bakar ataupun penyedia layanan service. Oleh karena itu belajar aviasi akan membuat semua sektor kita pelajari dengan mudah dan cepat. Belajar aviasi cukup dengan mempunyai wawasan yang luas dan rajin membaca, hal ini membuat rekan-rekan Aviator semakin cepat menangkap dan mengerti pembahasan yang akan dibahas.
+  Aviation knowledge adalah pengetahuan seputar penerbangan yang berkaitan dengan kebandarudaraan. Istilah ini terdiri dari dua kata yakni aviation yang berarti penerbangan dan knowledge mempunyai arti pengetahuan.
+  Materi pelajaran aviasi ini bisa kita katakan sebagai pondasi dasar sebelum akhirnya kalian bisa mempelajari bidang penerbagan di jurusan masing-masing, baik itu teknik maupun non-teknik.
+  Cakupan aviation knowledge sangat luas termasuk pengertian bandar udara, memahami bagian-bagian bandar udara, fasilitas bandar udara, etika dan lain sebagainya.
+  Bahkan persoalan keamanan dan keselamatan penerbangan juga sebenarnya masih tergolong aviation knowledge, hanya saja ini adalah materi yang lebih mendalam dan bisa berdiri sendiri sebagai materi kuliah secara terpisah.
 subdescription: >-
   Secara umum sektor Industri Aviasi terbagi menjadi beberapa bagian yaitu Regulator, Operator Airline,Operator Kebandar Udaraan, Operator Lalu Lintas Udara dan lainnya seperti penyedia layanan bahan bakar ataupun penyedia layanan service.
 
