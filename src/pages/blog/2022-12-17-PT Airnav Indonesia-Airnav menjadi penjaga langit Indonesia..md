@@ -4,14 +4,16 @@ title: Airnav menjadi penjaga langit Indonesia
 date: 2022-01-04T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/Airnav.png
-description: Ada 2 (Dua) hal yang melahirkan ide untuk membentuk pengelola tunggal pelayanan navigasi :Tugas rangkap yang diemban oleh PT Angkasa Pura I (Persero) dan PT Angkasa Pura II (Persero). Lembaga ini selain bertugas mengelola sektor darat dalam hal ini Bandar udara dengan segala tugas turunannya, juga bertanggung jawab mengelola navigasi penerbangan.Audit International Civil Aviation Organization (ICAO) terhadap penerbangan di Indonesia. Dari audit yang dilakukan ICAO yaitu ICAO USOAP (Universal Safety Oversight Audit Program and Safety Performance) pada tahun 2005 dan tahun 2007, ICAO menyimpulkan bahwa penerbangan di Indonesia tidak memenuhi syarat minimum requirement dari International Safety Standard sesuai regulasi ICAO. Kemudian direkomendasikan agar Indonesia membentuk badan atau lembaga yang khusus menangani pelayanan navigasi penerbangan.
+description: Belajar aviasi akan sedikit menjelaskan mengenai perusahaan yang sangat profesional dan di isi oleh orang-orang yang mempunyai integritas tinggi. Ada 2 (Dua) hal yang melahirkan ide untuk membentuk pengelola tunggal pelayanan navigasi :Tugas rangkap yang diemban oleh PT Angkasa Pura I (Persero) dan PT Angkasa Pura II (Persero). Lembaga ini selain bertugas mengelola sektor darat dalam hal ini Bandar udara dengan segala tugas turunannya, juga bertanggung jawab mengelola navigasi penerbangan.Audit International Civil Aviation Organization (ICAO) terhadap penerbangan di Indonesia. Dari audit yang dilakukan ICAO yaitu ICAO USOAP (Universal Safety Oversight Audit Program and Safety Performance) pada tahun 2005 dan tahun 2007, ICAO menyimpulkan bahwa penerbangan di Indonesia tidak memenuhi syarat minimum requirement dari International Safety Standard sesuai regulasi ICAO. Kemudian direkomendasikan agar Indonesia membentuk badan atau lembaga yang khusus menangani pelayanan navigasi penerbangan.
 tags:
-  - belajar aviasi
-  - belajar cepat aviasi
-  - belajar mudah aviasi
-  - belajar gratis
+  - Terbang efektif
+  - Terbang aman
+  - Terbang nyaman
+  - Terbang selamat
 ---
 ![chemex](/img/Airnav.png)
+
+Belajar aviasi akan mengulas sebuah perusahaan yang baru berdiri tidak lama, namun sebelumnya sudah mempunyai pengalaman yang luar biasa di bidang lalulintas udara. Karena mereka sekarang sudah bertransform ke perusahaan yang lebih focus ke wilayah udara Indonesia.
 
 Pada bulan September 2009, mulai disusun Rancangan Peraturan Pemerintahan (RPP) sebagai landasan hukum berdirinya Perum LPPNPI. Pada 13 September 2012, Presiden Susilo Bambang Yudhoyono menetapkan RPP menjadi PP 77 Tahun 2012 Tentang Perusahaan Umum (Perum) Lembaga Penyelenggara Pelayanan Navigasi Penerbangan Indonesia (LPPNPI). PP inilah yang menjadi dasar hukum terbentuknya Perum LPPNPI. Setelah terbitnya PP 77 Tahun 2012 Tentang Perum LPPNPI ini, pelayanan navigasi yang sebelumnya dikelola oleh PT Angkasa Pura I (Persero) dan PT Angkasa Pura II (Persero) serta UPT diserahkan kepada Perum LPPNPI atau yang lebih dikenal dengan AirNav Indonesia. Terhitung tanggal 16 Januari 2013 pukul 22:00 WIB, seluruh pelayanan navigasi yang dikelola oleh PT Angkasa Pura I (Persero) dan PT Angkasa Pura II (Persero) dialihkan ke AirNav Indonesia. Pukul 22:00 WIB dipilih karena adanya perbedaan tiga waktu di Indonesia yaitu WIB, WITA dan WIT. Pukul 22:00 WIB berarti tepat pukul 24:00 WIT atau persis pergantian hari sehingga pesawat yang melintas di wilayah Indonesia Timur pada pukul 00:01 WIT atau tanggal 17 Januari 2013, pengelolaannya sudah masuk ke AirNav Indonesia. Sejak saat itu, seluruh pelayanan navigasi yang ada di 26 bandar udara yang dikelola oleh PT Angkasa Pura I (Persero) dan PT Angkasa Pura II (Persero) resmi dialihkan ke AirNav Indonesia, begitu juga dengan sumber daya manusia dan peralatannya.
 

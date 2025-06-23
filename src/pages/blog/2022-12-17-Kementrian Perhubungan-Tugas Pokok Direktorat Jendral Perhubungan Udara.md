@@ -4,13 +4,13 @@ title: Tugas Pokok Direktorat Jendral Perhubungan Udara
 date: 2020-12-17T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/Logo-kemenhub.png
-description: Kementrian Perhubungan Udara Membuat aturan kepada seluruh Operator dengan mengikuti aturan internasional dan tambahan aturan domestik sesuai kebutuhan. Selain membuat aturan, kementrian juga mempunyai tugas audit dan memberikan persetujuan kepada operator yang memang sudah layak untuk menyelenggarakan sebuah program yang sudah direncenakan.
+description: Belajar aviasi akan sedikit menjelaskan mengenai perusahaan yang sangat profesional dan di isi oleh orang-orang yang mempunyai integritas tinggi. Kementrian Perhubungan Udara Membuat aturan kepada seluruh Operator dengan mengikuti aturan internasional dan tambahan aturan domestik sesuai kebutuhan. Selain membuat aturan, kementrian juga mempunyai tugas audit dan memberikan persetujuan kepada operator yang memang sudah layak untuk menyelenggarakan sebuah program yang sudah direncenakan.
 tags:
-  - aviator belajar gratis
-  - aviasi belajar cepat
-  - belajar mudah
-  - belajar aviasi
-  - belajar gratis
+  - Mudik ceria
+  - Mudik aman
+  - Selamanya aman
+  - Selamanya selamat
+  - Selamanya nyaman
 ---
 ![flavor wheel](/img/Logo-kemenhub.png)
 

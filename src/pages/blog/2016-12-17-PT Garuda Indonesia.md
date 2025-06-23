@@ -4,16 +4,16 @@ title: Hadirnya PT Garuda Indonesia di Wilayah Udara Indonesia
 date: 2020-12-17T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/GIA.png
-description: Penerbangan sipil Indonesia tercipta pertama kali atas inisatif Angkatan Udara Republik Indonesia (AURI) dengan menyewakan pesawat yang dinamai “Indonesian Airways” kepada pemerintah Burma pada 26 Januari 1949. Peran “Indonesian Airways” pun berakhir setelah disepakatinya Konferensi Meja Bundar (KMB) pada 1949. Seluruh awak dan pesawatnya pun baru bisa kembali ke Indonesia pada 1950. Setibanya di Indonesia, semua pesawat dan fungsinya dikembalikan kepada AURI ke dalam formasi Dinas Angkutan Udara Militer.
+description: Belajar aviasi akan sedikit menjelaskan mengenai perusahaan yang sangat profesional dan di isi oleh orang-orang yang mempunyai integritas tinggi. Penerbangan sipil Indonesia tercipta pertama kali atas inisatif Angkatan Udara Republik Indonesia (AURI) dengan menyewakan pesawat yang dinamai “Indonesian Airways” kepada pemerintah Burma pada 26 Januari 1949. Peran “Indonesian Airways” pun berakhir setelah disepakatinya Konferensi Meja Bundar (KMB) pada 1949. Seluruh awak dan pesawatnya pun baru bisa kembali ke Indonesia pada 1950. Setibanya di Indonesia, semua pesawat dan fungsinya dikembalikan kepada AURI ke dalam formasi Dinas Angkutan Udara Militer.
 
 tags:
-  - belajar menjadi aviator
-  - belajar aviasi
-  - menjadi aviageek
-  - belajar mudah
-  - belajar cepat
-  - cepat belajar
-  - mudah belajar
+  - Tiket murah
+  - Tiket promo
+  - Tiket gratis
+  - Terbang nyaman
+  - Terbang aman
+  - Terbang bintang 5
+  - Bumn terbaik
 ---
 ![flavor wheel](/img/GIA.png)
 

@@ -5,7 +5,7 @@ date: 2023-01-04T15:04:10.000Z
 featuredpost: false
 featureimage: /img/Injourney.png
 description: >-
-  Jembatan udara Indonesia, pintu gerbang menuju dunia. InJourney Airports
+  Belajar aviasi akan sedikit menjelaskan mengenai perusahaan yang sangat profesional dan di isi oleh orang-orang yang mempunyai integritas tinggi. Jembatan udara Indonesia, pintu gerbang menuju dunia. InJourney Airports
   menghadirkan layanan standar dunia di
   37Bandara di Indonesia.
 tags:
