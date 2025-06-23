@@ -1,5 +1,6 @@
 ---
 templateKey: blog-post
+path: /blog
 title: Hadirnya PT Garuda Indonesia di Wilayah Udara Indonesia
 date: 2020-12-17T15:04:10.000Z
 featuredpost: false

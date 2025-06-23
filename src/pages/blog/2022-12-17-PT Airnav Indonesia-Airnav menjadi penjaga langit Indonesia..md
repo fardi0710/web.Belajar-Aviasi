@@ -1,5 +1,6 @@
 ---
 templateKey: blog-post
+path: /blog
 title: Airnav menjadi penjaga langit Indonesia
 date: 2022-01-04T15:04:10.000Z
 featuredpost: false

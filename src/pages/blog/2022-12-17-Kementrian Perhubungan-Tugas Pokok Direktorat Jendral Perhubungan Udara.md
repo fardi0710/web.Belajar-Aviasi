@@ -1,5 +1,6 @@
 ---
 templateKey: blog-post
+path: /blog
 title: Tugas Pokok Direktorat Jendral Perhubungan Udara
 date: 2020-12-17T15:04:10.000Z
 featuredpost: false

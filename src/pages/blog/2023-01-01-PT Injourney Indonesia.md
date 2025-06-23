@@ -1,5 +1,6 @@
 ---
 templateKey: 'blog-post'
+path: /blog
 title: Pintu Gerbang Indonesia menuju Dunia
 date: 2023-01-04T15:04:10.000Z
 featuredpost: false
